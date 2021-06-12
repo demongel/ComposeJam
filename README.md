@@ -6,3 +6,7 @@ Compose Jam 小测验
 2. Search 页面，有基本的清空功能，点击箭头返回Home页面
 3. 布局参考淘宝，颜色按照默认主题
 
+![](https://github.com/demongel/ComposeJam/blob/master/Home.png)
+
+![](https://github.com/demongel/ComposeJam/blob/master/Search.png)
+
